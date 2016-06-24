@@ -1,5 +1,5 @@
 {
-  "name": "try-electron1",
+  "name": "simple-electron-with-es2015",
   "version": "1.0.0",
   "description": "A minimal Electron es6 + babel ",
   "main": "bootstrapper.js",
