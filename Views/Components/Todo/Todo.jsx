@@ -8,7 +8,8 @@ class Todo extends React.Component{
     this.state = {
       todoItems : [
         {text : 'this is test', show : true },
-        {text : 'this is test 2', show : true }
+        {text : 'this is test 2', show : true },
+        {text : 'this is test 3', show : true }
       ]
     };
   }
