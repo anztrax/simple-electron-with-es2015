@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Main from '../views/main.jsx';
+import Main from '../Views/main.jsx';
 
-window.onload = function(){
+(function(){
   ReactDOM.render(<Main />, document.body);
-};
+})();
